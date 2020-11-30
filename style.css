@@ -1,1 +1,70 @@
+body {
+  background-color: ;
+ 
+}
+
+h1{
+  text-align: center;
+  font-family: Garamond, serif;
+}
+
+h2{
+  font-family: Garamond, serif;
+}
+
+h6, p, li {
+  font-family: Calibri, sans-serif;
+  color: 
+}
+
+.education{
+  text-align: center;
+}
+
+.alignleft{
+  float:left;
+  padding-left: 10px;
+}
+
+.aligncenter{
+  float:left;
+  padding-left: 250px
+}
+
+.alignright{
+  float:right;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.alignleftheader{
+  float:left;
+  padding-left: 250px
+}
+
+.alignrightheader{
+  float:right;
+  padding-right: 200px;
+}
+
+.experience{
+  text-align: center;
+  border: 3px solid black;
+}
+
+ul.horizontal li{
+ display: inline-block;
+ padding-left: 200px;
+}
+
+.graduation{
+  padding-right: 20px;
+}
+
+.education{
+  border:  3px solid black; 
+}
+
+
+
 
