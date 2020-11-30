@@ -1,6 +1,6 @@
 body {
-  background-color: #444444;
-  color: #dddddddd;
+  background-color: #4C4A49;
+  color: #F5E1DD;
   margin: 10% 20%;
  
 }
@@ -14,7 +14,7 @@ h2{
   font-family: Garamond, serif;
 }
 
-h6, p, li {
+p, li {
   font-family: Calibri, sans-serif;
   color: 
 }
@@ -24,29 +24,19 @@ h6, p, li {
 }
 
 .alignleft{
-  float:left;
+  float: left;
   padding-left: 10px;
 }
 
 .aligncenter{
-  float:left;
+  float: left;
   padding-left: 250px
 }
 
 .alignright{
-  float:right;
+  float: right;
   padding-right: 10px;
   text-align: right;
-}
-
-.alignleftheader{
-  float:left;
-  padding-left: 250px
-}
-
-.alignrightheader{
-  float:right;
-  padding-right: 200px;
 }
 
 .experience{
